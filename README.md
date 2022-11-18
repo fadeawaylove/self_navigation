@@ -2,14 +2,19 @@
 
 ## 外部网络
 
+### [私人云盘cloudreve](https://dd.fadeaway.ltd)
+
 ### [jellyfin看电影](http://media.fadeaway.ltd)
 
 ### [aria2离线任务管理](http://aria2.fadeaway.ltd)
 
-### [私人博客](https://fadeawaylove.github.io/guaBlog/)
+### [私人博客](https://fadeawaylove.github.io/guaBlog)
+
 
 
 ## 本地网络
+
+### [私人云盘cloudreve](https://192.168.1.4)
 
 ### [jellyfin看电影](http://192.168.1.4:8096)
 
